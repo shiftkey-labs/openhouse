@@ -1,2 +1,1 @@
-# openhouse
-Repo for open house activities
+"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"
